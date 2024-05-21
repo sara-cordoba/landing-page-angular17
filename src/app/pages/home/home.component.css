@@ -1,0 +1,17 @@
+.container {
+  display: grid;
+  justify-items: center;
+  padding-bottom: 30px;
+  margin-top: 80px;
+}
+
+img {
+  margin-top: 20px;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+}
+
+section {
+  margin-top: 40px;
+}
